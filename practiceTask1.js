@@ -1,3 +1,10 @@
+/***
+
+Free Drinks
+    - Burger more than 500tk: free Coke
+    - Else Coke: 30tk
+*/
+
 const burger = 300;
 
 if(burger > 500){
